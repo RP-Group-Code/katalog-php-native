@@ -22,7 +22,7 @@ if (isset($_GET['delete'])) {
 
 <head>
   <meta charset="utf-8">
-  <title>Katalog Clotch</title>
+  <title>Katalog Clotchs</title>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.css">
   <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
